@@ -7,7 +7,7 @@ The system allows users to create tasks, assign them to users, and track task co
 ## Group Members and Roles
 - John Doe – Product Owner  
 - Carlos Peter – Scrum Master  
-- Mary Ann – Developer  
+- selestine john-developer 1
 
 ## Technologies
 - GitHub for version control
