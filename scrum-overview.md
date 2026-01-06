@@ -7,7 +7,7 @@ This project simulates a one-sprint Scrum workflow for developing a cloud-based 
 - Product Owner: Bosco Washa.
 - Scrum Master: Carlos Kalolo  
 - Developer 1: Asia  Yasin
-- Developer 2: Omary 
+- Developer 2: Omari masanyika 
 - Developer 3: Wendypeace
 - Developer 4: Zainab Rajab
 - Developer 5: Selestine John
