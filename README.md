@@ -8,7 +8,7 @@ This project simulates a one-sprint Scrum workflow for developing a cloud-based 
 ## Scrum Team and Roles
 - Product Owner: Bosco Fales  
 - Scrum Master: Carlos Peter  
-- Developer 1: Asia  
+- Developer 1: Asia  Yasin
 - Developer 2: Omary  
 - Developer 3: Wendypeace  
 - Developer 4: Zainab Raja  
