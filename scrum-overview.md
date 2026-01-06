@@ -4,14 +4,14 @@
 This project simulates a one-sprint Scrum workflow for developing a cloud-based task management application. The system allows users to create tasks, assign them to users, and track task completion.
 
 ## Group members and roles
-- Product Owner: Zainab Rajab  
+- Product Owner: Bosco Washa.
 - Scrum Master: Carlos Kalolo  
 - Developer 1: Asia  Yasin
-- Developer 2: Bosco Fales  
-- Developer 3: Selestine John
-- Developer 4: Omary  
-- Developer 5: Trustgod Kombe  
-- Developer 6: Wendypeace 
+- Developer 2: Omary 
+- Developer 3: Wendypeace
+- Developer 4: Zainab Rajab
+- Developer 5: Selestine John
+- Developer 6: Trustgod Kombe
   
 
 ## Scrum Events
