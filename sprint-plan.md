@@ -2,9 +2,9 @@
 
 ## 1. Product Backlog
 
-1. Add a new task to the system  
-2. Assign a task to a specific user  
-3. Mark a task as completed  
+1. Add a new task to the System. 
+2. Assign a task to a specific user. 
+3. Mark a task as completed.
 4. Display a list of all tasks  
 5. Send notifications for task updates  
 
