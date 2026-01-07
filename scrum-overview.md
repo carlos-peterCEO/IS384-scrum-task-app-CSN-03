@@ -8,7 +8,7 @@ This project simulates a one-sprint Scrum workflow for developing a cloud-based 
 - Scrum Master: Carlos Kalolo  
 - Developer 1: Asia  Yasin
 - Developer 2: Omari masanyika 
-- Developer 3: Wendypeace
+- Developer 3: Wendypeace Jesse
 - Developer 4: Zainab Khamisi
 - Developer 5: Selestine John
 - Developer 6: TrustGod Kombe
