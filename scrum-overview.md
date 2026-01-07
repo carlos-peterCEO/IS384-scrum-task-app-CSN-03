@@ -11,7 +11,7 @@ This project simulates a one-sprint Scrum workflow for developing a cloud-based 
 - Developer 3: Wendypeace
 - Developer 4: Zainab Rajab
 - Developer 5: Selestine John
-- Developer 6: Trustgod Kombe
+- Developer 6: TrustGod Kombe
   
 
 ## Scrum Events
@@ -20,7 +20,8 @@ This project simulates a one-sprint Scrum workflow for developing a cloud-based 
 
 
 - **Daily Scrum:**  
-  A short daily meeting where team members discuss what was done, what will be done next, and any blockers affecting progress.
+  A short daily meeting where team members discuss what was done, what will be done next, and any blockers affecting progress.for example Developer 6
+“Yesterday I finished the login screen. Today I will start implementing password validation. I’m blocked because I’m waiting for the API details
 
 - **Sprint Review:**  
   At the end of the sprint, the team demonstrates the completed features to stakeholders and gathers feedback.
