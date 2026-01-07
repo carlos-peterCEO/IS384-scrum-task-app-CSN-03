@@ -35,4 +35,9 @@ Each team member works on an individual feature branch, makes at least one commi
 
 
 
+## Group Members and Roles
+- John Doe – Product Owner  
+- Carlos Peter – Scrum Master  
+- selestine john-developer 1
+- Wendypeace Jesse - Developer 2
 
